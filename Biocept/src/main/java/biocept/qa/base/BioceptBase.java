@@ -97,6 +97,15 @@ public class BioceptBase {
 			options.addArguments("disable-infobars");
 			driver = new ChromeDriver(options);
 			log.debug("Chrome Launched !!!");
+			
+			if(browser.content)
+				
+				if(browser.contentEquals("))
+			
+			
+			if(browser.contentEquals(""chrome")) {"
+					System.setProperty(webdriver.chrome.driver, value);
+			else if (browser.contentEquals(cs))
 
 		} else if (browser.equals("FF")) {
 			System.setProperty("webdriver.chrome.driver",
@@ -120,9 +129,32 @@ public class BioceptBase {
 	public void scrollIntoView(WebElement Element) {
 		JavascriptExecutor js = (JavascriptExecutor) Driver();
 		js.executeScript("arguments[0].scrollIntoView();", Element);
+		
+			
+		
+	public void scrollIntoView(WebEle)
+	
+	
+	public void scrollIntoView(WebElement Element) {
+		JavascriptExecutor js = (JavascriptExecutor) Driver();
+		js.executeScript(arguments[], args)
+		
+		public void scrollintoview(WebElement Element) {
+			JavascriptExecutor js = (JavascriptExecutor) Driver();
+			
+			
+			
+			
 
 	}
 
 }
 
 //this is test
+
+
+	
+	
+	
+	}
+}
